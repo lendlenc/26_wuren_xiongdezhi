@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-0f0a878afbb8e620a2db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cone_map_visualization",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cone_map_visualization_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cone_map_visualization_uninstall-16cabd7a99ff0358e5a0.json",
+					"name" : "cone_map_visualization_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_visualizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_visualizer-59dbc968c0865cd2d4fa.json",
+					"name" : "map_visualizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a713e94a0de81991c51d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/cone_map_visualization",
+		"source" : "/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/cone_map_visualization"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

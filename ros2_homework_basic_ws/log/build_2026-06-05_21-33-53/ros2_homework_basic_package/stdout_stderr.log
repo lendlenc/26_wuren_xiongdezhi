@@ -1,0 +1,19 @@
+[35m[1mConsolidate compiler generated dependencies of target turtle_8[0m
+[100%] Built target turtle_8
+-- Install configuration: ""
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/lib/ros2_homework_basic_package/turtle_8
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ament_index/resource_index/package_run_dependencies/ros2_homework_basic_package
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ament_index/resource_index/parent_prefix_path/ros2_homework_basic_package
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/environment/ament_prefix_path.sh
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/environment/path.sh
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/environment/path.dsv
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/local_setup.bash
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/local_setup.sh
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/local_setup.zsh
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/local_setup.dsv
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/package.dsv
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ament_index/resource_index/packages/ros2_homework_basic_package
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/cmake/ros2_homework_basic_packageConfig.cmake
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/cmake/ros2_homework_basic_packageConfig-version.cmake
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/package.xml

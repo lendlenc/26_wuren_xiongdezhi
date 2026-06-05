@@ -1,0 +1,39 @@
+[0.006s] Invoking command in '/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/cone_map_visualization': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/cone_map_visualization -DCMAKE_INSTALL_PREFIX=/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization
+[0.014s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.091s] -- Found rclcpp: 16.0.19 (/opt/ros/humble/share/rclcpp/cmake)
+[0.108s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.109s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.113s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.118s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.125s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.142s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.143s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.216s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.243s] -- Found fsd_common_msgs: 0.0.0 (/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/fsd_common_msgs/share/fsd_common_msgs/cmake)
+[0.277s] -- Found visualization_msgs: 4.9.1 (/opt/ros/humble/share/visualization_msgs/cmake)
+[0.298s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.344s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.345s] -- Configured cppcheck include dirs: 
+[0.345s] -- Configured cppcheck exclude dirs and/or files: 
+[0.345s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.345s] -- Added test 'lint_cmake' to check CMake code style
+[0.346s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.346s] -- Added test 'uncrustify' to check C / C++ code style
+[0.346s] -- Configured uncrustify additional arguments: 
+[0.347s] -- Added test 'xmllint' to check XML markup files
+[0.347s] -- Configuring done
+[0.350s] [31mCMake Error at CMakeLists.txt:15 (add_executable):
+[0.350s]   Cannot find source file:
+[0.350s] 
+[0.350s]     src/map_visualizer.cpp
+[0.350s] 
+[0.350s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[0.351s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[0.351s] 
+[0.351s] [0m
+[0.351s] [31mCMake Error at CMakeLists.txt:15 (add_executable):
+[0.351s]   No SOURCES given to target: map_visualizer
+[0.351s] 
+[0.351s] [0m
+[0.351s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[0.357s] Invoked command in '/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/cone_map_visualization' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/cone_map_visualization -DCMAKE_INSTALL_PREFIX=/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization

@@ -1,0 +1,17 @@
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/lib/cone_map_visualization/map_visualizer
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/launch/launch.py
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/ament_index/resource_index/package_run_dependencies/cone_map_visualization
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/ament_index/resource_index/parent_prefix_path/cone_map_visualization
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/environment/ament_prefix_path.sh
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/environment/ament_prefix_path.dsv
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/environment/path.sh
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/environment/path.dsv
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/local_setup.bash
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/local_setup.sh
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/local_setup.zsh
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/local_setup.dsv
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/package.dsv
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/ament_index/resource_index/packages/cone_map_visualization
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/cmake/cone_map_visualizationConfig.cmake
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/cmake/cone_map_visualizationConfig-version.cmake
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/package.xml

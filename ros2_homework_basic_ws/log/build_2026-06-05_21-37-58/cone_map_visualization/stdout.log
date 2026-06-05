@@ -1,0 +1,20 @@
+[100%] Built target map_visualizer
+-- Install configuration: ""
+-- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/lib/cone_map_visualization/map_visualizer
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/launch
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/launch/launch.py
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/ament_index/resource_index/package_run_dependencies/cone_map_visualization
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/ament_index/resource_index/parent_prefix_path/cone_map_visualization
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/environment/ament_prefix_path.sh
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/environment/ament_prefix_path.dsv
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/environment/path.sh
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/environment/path.dsv
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/local_setup.bash
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/local_setup.sh
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/local_setup.zsh
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/local_setup.dsv
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/package.dsv
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/ament_index/resource_index/packages/cone_map_visualization
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/cmake/cone_map_visualizationConfig.cmake
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/cmake/cone_map_visualizationConfig-version.cmake
+-- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/cone_map_visualization/share/cone_map_visualization/package.xml

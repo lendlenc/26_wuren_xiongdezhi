@@ -1,0 +1,41 @@
+[0.008s] Invoking command in '/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/build/fsd_common_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/fsd_common_msgs -DCMAKE_INSTALL_PREFIX=/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/install/fsd_common_msgs
+[0.066s] -- The C compiler identification is GNU 11.4.0
+[0.116s] -- The CXX compiler identification is GNU 11.4.0
+[0.123s] -- Detecting C compiler ABI info
+[0.184s] -- Detecting C compiler ABI info - done
+[0.189s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.190s] -- Detecting C compile features
+[0.190s] -- Detecting C compile features - done
+[0.193s] -- Detecting CXX compiler ABI info
+[0.262s] -- Detecting CXX compiler ABI info - done
+[0.267s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.268s] -- Detecting CXX compile features
+[0.268s] -- Detecting CXX compile features - done
+[0.272s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.366s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.424s] -- Found rosidl_default_generators: 1.2.1 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.426s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.430s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.458s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.482s] -- Found std_msgs: 4.9.1 (/opt/ros/humble/share/std_msgs/cmake)
+[0.500s] -- Found geometry_msgs: 4.9.1 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.515s] [31mCMake Error at CMakeLists.txt:12 (find_package):
+[0.515s]   By not providing "Findcan_msgs.cmake" in CMAKE_MODULE_PATH this project has
+[0.515s]   asked CMake to find a package configuration file provided by "can_msgs",
+[0.515s]   but CMake did not find one.
+[0.515s] 
+[0.515s]   Could not find a package configuration file provided by "can_msgs" with any
+[0.515s]   of the following names:
+[0.515s] 
+[0.515s]     can_msgsConfig.cmake
+[0.515s]     can_msgs-config.cmake
+[0.515s] 
+[0.515s]   Add the installation prefix of "can_msgs" to CMAKE_PREFIX_PATH or set
+[0.515s]   "can_msgs_DIR" to a directory containing one of the above files.  If
+[0.515s]   "can_msgs" provides a separate development package or SDK, be sure it has
+[0.515s]   been installed.
+[0.515s] 
+[0.516s] [0m
+[0.516s] -- Configuring incomplete, errors occurred!
+[0.516s] See also "/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/build/fsd_common_msgs/CMakeFiles/CMakeOutput.log".
+[0.520s] Invoked command in '/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/build/fsd_common_msgs' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/fsd_common_msgs -DCMAKE_INSTALL_PREFIX=/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/install/fsd_common_msgs

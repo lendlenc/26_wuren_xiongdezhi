@@ -1,0 +1,10 @@
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/uninstall.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/ros2_homework_basic_package_uninstall.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/turtle_8.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/test.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/edit_cache.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/rebuild_cache.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/list_install_components.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/install.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/install/local.dir
+/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package/CMakeFiles/install/strip.dir
