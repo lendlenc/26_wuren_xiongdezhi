@@ -1,0 +1,5 @@
+/turtle_8:
+  ros__parameters:
+    linear_speed: 1.0     # 线速度
+    angular_speed: 2.0    # 转向角速度 
+    target_count: 314     

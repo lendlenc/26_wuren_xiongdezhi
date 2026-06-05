@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f74f01fe0e85696094da.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ros2_homework_basic_package",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_homework_basic_package_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_homework_basic_package_uninstall-8703b6017c050c51e484.json",
+					"name" : "ros2_homework_basic_package_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_8-c63f0f599386f552f27d.json",
+					"name" : "turtle_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-e839de40bcf9441edc14.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/build/ros2_homework_basic_package",
+		"source" : "/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/src/ros2_homework_basic_package"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -35,7 +35,7 @@ private:
             {
                 visualization_msgs::msg::Marker marker;
                 
-                marker.header.frame_id = msg->header.frame_id; 
+                marker.header.frame_id = "odom";
                 marker.header.stamp = this->now();
                 marker.ns = ns;
                 marker.id = id++; 

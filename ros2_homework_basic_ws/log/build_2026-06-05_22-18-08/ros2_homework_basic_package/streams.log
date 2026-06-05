@@ -1,0 +1,25 @@
+[0.008s] Invoking command in '/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package -- -j32 -l32
+[0.077s] [ 50%] [32mBuilding CXX object CMakeFiles/turtle_8.dir/src/turtle_8.cpp.o[0m
+[2.611s] [100%] [32m[1mLinking CXX executable turtle_8[0m
+[2.795s] [100%] Built target turtle_8
+[2.808s] Invoked command in '/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package -- -j32 -l32
+[2.817s] Invoking command in '/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package
+[2.857s] -- Install configuration: ""
+[2.857s] -- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/lib/ros2_homework_basic_package/turtle_8
+[2.859s] -- Set runtime path of "/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/lib/ros2_homework_basic_package/turtle_8" to ""
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ament_index/resource_index/package_run_dependencies/ros2_homework_basic_package
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ament_index/resource_index/parent_prefix_path/ros2_homework_basic_package
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/environment/ament_prefix_path.sh
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/environment/ament_prefix_path.dsv
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/environment/path.sh
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/environment/path.dsv
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/local_setup.bash
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/local_setup.sh
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/local_setup.zsh
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/local_setup.dsv
+[2.859s] -- Installing: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/package.dsv
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ament_index/resource_index/packages/ros2_homework_basic_package
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/cmake/ros2_homework_basic_packageConfig.cmake
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/cmake/ros2_homework_basic_packageConfig-version.cmake
+[2.859s] -- Up-to-date: /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/install/ros2_homework_basic_package/share/ros2_homework_basic_package/package.xml
+[2.861s] Invoked command in '/home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lend/work_place/Foxmax-intership/task1/ros2_homework_basic_ws/build/ros2_homework_basic_package

@@ -17,6 +17,9 @@ public: // 类的公开接口函数
     // std::string：标准库里的str;黄的是参数;Node(node_name)='super(rclcpp::Node)';":"先做某事
     explicit Turtle8Node(const std::string& node_name):Node(node_name)  // 定义构造函数
     {
+        this->declare_parameter<double>("linear_speed", 1.0);
+        this->declare_parameter<double>("angular_speed", 2.0);
+        this->declare_parameter<int>("target_count", 314);
         // 'this->'='self.';'<>':限定只能发布xxx;10表示网卡发不出则最多堆叠10条;Twist表示各种速度
         publisher_ = this->create_publisher<geometry_msgs::msg::Twist>("/turtle1/cmd_vel",10);
 
@@ -25,14 +28,20 @@ public: // 类的公开接口函数
     }
     void timer_callback()
     {   
+        
+        double linear_speed = this->get_parameter("linear_speed").as_double();
+        double angular_speed = this->get_parameter("angular_speed").as_double();
+        int target_count = this->get_parameter("target_count").as_int();
+
         // xyz:前左上
         auto msg = geometry_msgs::msg::Twist();
-        msg.linear.x=1.0;
-        if (count_<=314){
-            msg.angular.z=2;
+        
+        msg.linear.x = linear_speed;       
+        if (count_ <= target_count){       
+            msg.angular.z = angular_speed; 
         }
         else{
-            msg.angular.z=-2;
+            msg.angular.z = -angular_speed;
         }
         publisher_->publish(msg);
         count_++;
